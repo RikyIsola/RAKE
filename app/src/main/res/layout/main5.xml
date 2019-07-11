@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="match_parent"
+	android:layout_width="match_parent"
+	android:background="#000000"
+	android:orientation="vertical">
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:layout_weight="1.0"
+		android:textColor="#FFFFFF"
+		android:text="IL GIOCO CONSISTE NELL' UCCIDERE IL RAKE, UN MOSTRO DELLA PALUDE DI PAURALANDIA PIAZZANDO 5 TELECAMERE PER SPIARE IL MOSTRO. CON LE FRECCE TI MUOVI CON I TASTI SPARA, TU SPARI IN  DIREZIONE DELLE FRECCE MA PERDI 5 PUNTI VITA, CON IL TASTO CENTRALE INTERAGISCI. LE ZONA È DIVISA IN CASELLE QUELLE ROSSE NON HANNO TELECAMERE QUELLE VERDI LE HANNO, LA CASELLA GIALLA RAPPRESENTA IL CAMPO BASE DOVE PUOI USARE LE TELECAMERE PER SPIARE IL MOSTRO. LUI CACCIA SOLO DI NOTTE CHE COMINCIA ATTORNO ALLE 20 E TERMINA ALLE 8, BUONA FORTUNA. "
+		android:gravity="center"
+		android:textSize="19sp"/>
+
+</LinearLayout>
+
